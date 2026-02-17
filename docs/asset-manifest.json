@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "./static/css/main.131e5d85.css",
+    "main.js": "./static/js/main.899cc8b9.js",
+    "static/js/453.ad7768ec.chunk.js": "./static/js/453.ad7768ec.chunk.js",
+    "static/media/25shibaFes.MP4": "./static/media/25shibaFes.83195dc8a6934d6a5858.MP4",
+    "static/media/24shibaFes.mp4": "./static/media/24shibaFes.8208d29e1d0473344282.mp4",
+    "static/media/25omiyaFes.mp4": "./static/media/25omiyaFes.6e44df5ae9f154168d67.mp4",
+    "static/media/25shibaFes.jpg": "./static/media/25shibaFes.057fc6b12cd2a25cb071.jpg",
+    "static/media/24shinkan.mp4": "./static/media/24shinkan.d0f0aeca7c132e82ac6e.mp4",
+    "static/media/24shinkan.png": "./static/media/24shinkan.8eafb19680e279642ec1.png",
+    "static/media/25omiyaFes.png": "./static/media/25omiyaFes.eb40f402bb6d653016cc.png",
+    "static/media/24shibaFes.png": "./static/media/24shibaFes.015b6efab004f67b2e9b.png",
+    "index.html": "./index.html",
+    "main.131e5d85.css.map": "./static/css/main.131e5d85.css.map",
+    "main.899cc8b9.js.map": "./static/js/main.899cc8b9.js.map",
+    "453.ad7768ec.chunk.js.map": "./static/js/453.ad7768ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.131e5d85.css",
+    "static/js/main.899cc8b9.js"
+  ]
+}
