@@ -9,7 +9,7 @@ import NotFound from './pages/NotFound';
 export default function App() {
   return (
     <BrowserRouter
-      basename={process.env.PUBLIC_URL}
+      basename="/portfolio"
       future={{ v7_startTransition: true, v7_relativeSplatPath: true }}
     >
       <Routes>

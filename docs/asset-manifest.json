@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.131e5d85.css",
-    "main.js": "./static/js/main.899cc8b9.js",
+    "main.js": "./static/js/main.58db8583.js",
     "static/js/453.ad7768ec.chunk.js": "./static/js/453.ad7768ec.chunk.js",
     "static/media/25shibaFes.MP4": "./static/media/25shibaFes.83195dc8a6934d6a5858.MP4",
     "static/media/24shibaFes.mp4": "./static/media/24shibaFes.8208d29e1d0473344282.mp4",
@@ -13,11 +13,11 @@
     "static/media/24shibaFes.png": "./static/media/24shibaFes.015b6efab004f67b2e9b.png",
     "index.html": "./index.html",
     "main.131e5d85.css.map": "./static/css/main.131e5d85.css.map",
-    "main.899cc8b9.js.map": "./static/js/main.899cc8b9.js.map",
+    "main.58db8583.js.map": "./static/js/main.58db8583.js.map",
     "453.ad7768ec.chunk.js.map": "./static/js/453.ad7768ec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.131e5d85.css",
-    "static/js/main.899cc8b9.js"
+    "static/js/main.58db8583.js"
   ]
 }
