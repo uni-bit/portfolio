@@ -50,11 +50,6 @@ export default function Home() {
                 ソフトウェアとハードウェアの両方を学んでいます。<br />
                 子どものころからPCとゲームが趣味で、これらを学べる情報系の学部に進学しました。<br />
               </p>
-
-              <h3 style={{ fontSize: '14px', marginTop: '16px', marginBottom: '6px', fontWeight: 600 }}>資格</h3>
-              <p className="bodyText">
-                TOEIC 820点
-              </p>
             </div>
           </div>
         </div>
@@ -70,6 +65,7 @@ export default function Home() {
             <li>2021年 和光国際高校 入学</li>
             <li>2024年 和光国際高校 卒業</li>
             <li>2024年 芝浦工業大学 工学部 情報通信コース 入学</li>
+            <li>2025年 7月 TOEIC 820点取得</li>
             <li>2028年 芝浦工業大学 工学部 情報通信コース 卒業予定</li>
           </ul>
         </div>
