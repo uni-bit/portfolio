@@ -91,7 +91,7 @@ h3 {
   top: 0;
   z-index: 20;
   background: var(--bg);
-  border-bottom: 1px solid var(--border);
+  border-bottom: 2px solid var(--accent);
 }
 
 .headerInner {
@@ -99,12 +99,13 @@ h3 {
   align-items: center;
   justify-content: space-between;
   gap: 12px;
-  padding: 14px 0;
+  padding: 16px 0;
 }
 
 .brandTitle {
   font-weight: 700;
   letter-spacing: -0.02em;
+  font-size: 18px;
 }
 
 .brandSub {
@@ -121,12 +122,26 @@ h3 {
 .nav a {
   text-decoration: none;
   padding: 8px 10px;
-  border-radius: 10px;
+  border-radius: 0;
+  position: relative;
+  transition: all 0.2s ease;
 }
 
 .nav a[aria-current='page'] {
-  background: var(--accent-weak);
-  border: 1px solid var(--border);
+  background: none;
+  border: none;
+  font-weight: 600;
+}
+
+.nav a[aria-current='page']::after {
+  content: '';
+  position: absolute;
+  bottom: -4px;
+  left: 10px;
+  right: 10px;
+  height: 3px;
+  background: var(--accent);
+  border-radius: 2px;
 }
 
 .nav a:hover {

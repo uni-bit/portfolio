@@ -50,6 +50,11 @@ export default function Home() {
                 ソフトウェアとハードウェアの両方を学んでいます。<br />
                 子どものころからPCとゲームが趣味で、これらを学べる情報系の学部に進学しました。<br />
               </p>
+
+              <h3 style={{ fontSize: '14px', marginTop: '16px', marginBottom: '6px', fontWeight: 600 }}>資格</h3>
+              <p className="bodyText">
+                TOEIC 820点
+              </p>
             </div>
           </div>
         </div>
