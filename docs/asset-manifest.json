@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.4a1929e6.css",
+    "main.css": "/portfolio/static/css/main.1e6e66dd.css",
     "main.js": "/portfolio/static/js/main.88249bb1.js",
     "static/js/453.ad7768ec.chunk.js": "/portfolio/static/js/453.ad7768ec.chunk.js",
     "static/media/25shibaFes.MP4": "/portfolio/static/media/25shibaFes.83195dc8a6934d6a5858.MP4",
@@ -12,12 +12,12 @@
     "static/media/25omiyaFes.png": "/portfolio/static/media/25omiyaFes.eb40f402bb6d653016cc.png",
     "static/media/24shibaFes.png": "/portfolio/static/media/24shibaFes.015b6efab004f67b2e9b.png",
     "index.html": "/portfolio/index.html",
-    "main.4a1929e6.css.map": "/portfolio/static/css/main.4a1929e6.css.map",
+    "main.1e6e66dd.css.map": "/portfolio/static/css/main.1e6e66dd.css.map",
     "main.88249bb1.js.map": "/portfolio/static/js/main.88249bb1.js.map",
     "453.ad7768ec.chunk.js.map": "/portfolio/static/js/453.ad7768ec.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4a1929e6.css",
+    "static/css/main.1e6e66dd.css",
     "static/js/main.88249bb1.js"
   ]
 }
