@@ -100,6 +100,7 @@ h3 {
   justify-content: space-between;
   gap: 12px;
   padding: 14px 0;
+  padding-bottom: 0;
   border-bottom: 2px solid var(--accent);
 }
 
@@ -117,6 +118,8 @@ h3 {
   display: flex;
   gap: 14px;
   align-items: center;
+  padding: 14px 0;
+  border-bottom: 2px solid var(--accent);
 }
 
 .nav a {
